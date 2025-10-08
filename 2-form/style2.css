@@ -1,0 +1,35 @@
+main {
+	background-color: #FFFEFE;
+}
+h1 {
+	color: #333333;
+	font-family: Open Sans, Seattle Sans;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 100%;
+}
+.enter {
+	color: #666666;
+		
+}
+.enter button {
+	color: #089FE0;
+}
+.username input {
+	color: #333333;
+	background: #F5F5F5;
+}
+.input-group input {
+    color: #999999;
+	background: #F5F5F5;
+}
+.button-type {
+	color: #FFFFFF;
+}
+.button-type input {
+	background: #089FE0;
+}
+.checkbox {
+	color: #666666;
+	background: #FFFEFE;
+}

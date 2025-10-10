@@ -1,0 +1,59 @@
+header {
+	background-color: #374151;
+
+}
+main {
+	background-color: #121928;
+}
+header a {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-weight: 400;
+	text-decoration: none;
+}
+header h6 {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 100%;
+}
+h1 {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 38px;	
+}
+h2 {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;	
+}
+.speciality {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 28px;
+}
+.heroText {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+.sectionText {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 30px;
+	letter-spacing: 0%;
+}
+.rights {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;
+	letter-spacing: 0%;
+	text-align: center;
+}

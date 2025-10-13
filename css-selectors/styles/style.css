@@ -7,13 +7,11 @@
 
 header {
 	background-color: #374151;
-	padding: 33px 50px;
-
 }
 
 main {
 	background-color: #121928;
-	/* padding-bottom: 40px; */
+	padding-bottom: 40px;
 	padding: 33px 50px;
 }
 
@@ -89,7 +87,7 @@ h2 {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 30px;
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 }
 
 .sectionText a:hover {
@@ -103,4 +101,8 @@ h2 {
 	line-height: 28px;
 	text-align: center;
 	padding-top: 20px;
+}
+
+.textSection {
+	margin-bottom: 50px;
 }

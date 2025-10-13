@@ -1,0 +1,108 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+header {
+	background-color: #374151;
+}
+
+main {
+	background-color: #121928;
+	padding-bottom: 40px;
+	padding: 33px 50px;
+}
+
+
+header a {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+nav ul {
+	list-style: none;
+	padding: 33px 50px;
+	margin-bottom: 30px;
+}
+header h6 {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 100%;
+	margin-bottom: 10px;
+}
+h1 {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 38px;
+	margin-bottom: 30px;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;	
+	margin-bottom: 5px;
+}
+
+.searchForm {
+	margin-bottom: 25px;
+	border-radius: 38px;
+}
+
+.searchForm input {
+	color: #FFFFFF;
+	background-color: #121928;
+	padding: 10px 15px;
+	border: 1px solid #121928;
+	border-radius: 25px;
+	font-size: 14px;
+}
+
+.searchForm input:focus {
+	border-color: #0c121f;
+}
+
+.speciality {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 28px;
+}
+.heroText {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+	margin-bottom: 25px
+}
+.sectionText {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 30px;
+	margin-bottom: 25px;
+}
+
+.sectionText a:hover {
+	text-decoration: underline;
+}
+
+.rights {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.textSection {
+	margin-bottom: 50px;
+}
